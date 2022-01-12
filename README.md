@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm @ponti</h1>
 <h3 align="center">I'm a programmer from Argentina</h3>
 
-- 👨‍💻 I love to **read and write code**
+- 👨‍💻 I love to: **read and write code**
 
-- 🥅 2022 Goals: Contribute more to **Open Source projects**
+- 🥅 2022 Goals: Contribute more to: **Open Source projects**
 
-- 🌱 I’m currently learning backend in **python**
+- 🌱 I’m currently learning backend in: **python**
 
-- 📫 How to reach me **pontidev@pontimposrl.com**
+- 📫 How to reach me: **pontidev@pontimposrl.com**
 
-- 🌐 Portfolio **Coming soon 👀**
+- 🌐 Portfolio: **Coming soon 👀**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
