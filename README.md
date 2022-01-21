@@ -5,7 +5,7 @@
 
 - 🥅 2022 Goals: Contribute more to: **Open Source projects**
 
-- 🌱 I’m currently learning backend in: **python**
+- 🌱 I’m currently learning blockchain development in: **solidity**
 
 - 📫 How to reach me: **pontidev@pontimposrl.com**
 
