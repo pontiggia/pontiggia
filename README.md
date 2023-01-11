@@ -3,7 +3,7 @@
 
 - 👨‍💻 I love to: **read and write code**
 
-- 🥅 2022 Goals: Contribute more to: **Open Source projects**
+- 🥅 2023 Goals: Contribute more to: **Open Source projects**
 
 - 🌱 I’m currently learning blockchain development in: **solidity**
 
