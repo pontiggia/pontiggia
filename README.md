@@ -5,8 +5,6 @@
 
 - 🥅 2023 Goals: Contribute more to: **Open Source projects**
 
-- 🌱 I’m currently learning blockchain development in: **solidity**
-
 - 📫 How to reach me: **pontidev@pontimposrl.com**
 
 ![](https://komarev.com/ghpvc/?username=pontiggia&color=blue&style=plastic)
