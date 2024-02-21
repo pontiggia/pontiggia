@@ -3,7 +3,7 @@
 
 - 👨‍💻 I love to: **read and write code**
 
-- 🥅 2024 Goals: Contribute more to: **Open Source projects**
+- 🥅 2024 Goals: keep learning and developing projects
 
 - 📫 How to reach me: **pontidev@pontimposrl.com**
 
