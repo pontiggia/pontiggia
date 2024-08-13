@@ -3,7 +3,7 @@
 #### I'm a Backend Developer 
 
 - 👨‍💻 I code in `.js`, `.ts`, `.py`
-- 💻 Frameworks I use are Flask, Nextjs, FastAPI
+- 💻 Frameworks I use are Flask, Nextjs, FastAPI & Expressjs
 - ⭐️ Working on some side projects based on Web Development
 - 📚 I’m currently learning mobile devolpment
 
