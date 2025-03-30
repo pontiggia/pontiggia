@@ -5,7 +5,6 @@
 - 👨‍💻 I code in `.js`, `.ts`, `.py`
 - 💻 Frameworks I use are Flask, Nextjs, FastAPI & Expressjs
 - ⭐️ Working on some side projects based on Web Development
-- 📚 I’m currently learning mobile devolpment
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
