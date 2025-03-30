@@ -2,9 +2,23 @@
 
 #### I'm a Backend Developer 
 
-- 👨‍💻 I code in `.js`, `.ts`, `.py`
-- 💻 Frameworks I use are Flask, Nextjs, FastAPI & Expressjs
-- ⭐️ Working on some side projects based on Web Development
+### 🚀 Tech Stack & Skills
+
+- 🧠 **Languages:**  
+  - Proficient in **JavaScript (`.js`)**, **TypeScript (`.ts`)**, and **Python (`.py`)** for building scalable and efficient applications.
+
+- ⚡️ **Backend Frameworks:**  
+  - Experienced with:
+    - 🧩 **Flask:** Lightweight Python framework for APIs and web apps.
+    - ⚡️ **FastAPI:** Modern Python framework for building high-performance APIs.
+    - 🟢 **Express.js:** Robust backend framework for Node.js.
+    - 🔥 **Next.js:** Full-stack React framework with server-side rendering and API routes.
+
+- 🛠️ **Other Tools & Technologies:**  
+  - RESTful APIs, WebSockets, SQL/NoSQL Databases, Docker, and Git.
+
+- 🎯 **Currently Working On:**  
+  - Building and refining side projects focused on **Web Development**, enhancing both backend performance and API scalability.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
