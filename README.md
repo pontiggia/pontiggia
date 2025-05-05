@@ -5,7 +5,7 @@
 ### 🚀 Tech Stack & Skills
 
 - 🧠 **Languages:**  
-  - Proficient in **JavaScript (`.js`)**, **TypeScript (`.ts`)**, and **Python (`.py`)** for building scalable and efficient applications.
+  - Proficient in **JavaScript (`.js`)**, **TypeScript (`.ts`)**, and **Python (`.py`)**.
 
 - ⚡️ **Backend Frameworks:**  
   - Experienced with:
