@@ -17,9 +17,6 @@
 - 🛠️ **Other Tools & Technologies:**  
   - RESTful APIs, WebSockets, SQL/NoSQL Databases, Docker, and Git.
 
-- 🎯 **Currently Working On:**  
-  - Building and refining side projects focused on **Web Development**, enhancing both backend performance and API scalability.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-pontiggia" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="ponti" height="30" width="40" /></a></p>
